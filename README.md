@@ -1,3 +1,5 @@
+![CHECKMATE Demo](https://raw.githubusercontent.com/masoncalcolsol-creator/checkmate-receipt-scanner/main/checkmate-demo.gif)
+
 # CHECKMATE
 
 Scan a receipt → instantly split it with people.
